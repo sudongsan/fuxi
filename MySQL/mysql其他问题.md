@@ -75,3 +75,4 @@ select * from dept where dname='xxx' or loc='xx' or deptno = 45;
 3. 开启慢查询日志，查看慢查询的 SQL。
 
 [MySQL面试题](https://mp.weixin.qq.com/s/uIFHe8Myb0RvNxtAivSzOA)
+
